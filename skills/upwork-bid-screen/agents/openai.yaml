@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upwork Bid Screen"
+  short_description: "Decide which Upwork jobs are worth a bid"
+  default_prompt: "Use $upwork-bid-screen to compare these jobs with my experience and time limits. Tell me which ones are worth applying to and what I still need to check."

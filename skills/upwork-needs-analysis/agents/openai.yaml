@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upwork Needs Analysis"
+  short_description: "Find what clients keep buying on Upwork"
+  default_prompt: "Use $upwork-needs-analysis to read these job posts. Show which problems recur across buyers and what I should check before offering a service."

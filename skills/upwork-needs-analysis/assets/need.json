@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "job_id": null,
+  "canonical_url": null,
+  "first_observed_at": null,
+  "observed_at": null,
+  "version": null,
+  "source_entry": null,
+  "buyer_id": null,
+  "duplicate_group": null,
+  "coverage": null,
+  "fields": {
+    "scenario": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "workflow": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "pain": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "systems": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "inputs": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "outputs": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "outcome": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "acceptance": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "budget": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "deadline": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    },
+    "dependencies": {
+      "status": "not_stated",
+      "value": null,
+      "evidence": null,
+      "reason": null
+    }
+  },
+  "source_locator": null,
+  "source_kind": null
+}

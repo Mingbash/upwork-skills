@@ -1,0 +1,38 @@
+{
+  "upwork-needs-analysis": {
+    "SKILL.md": "0a19e6c9287bd769c731c5ca638fea7e7db1f4f3b13ab58686646555adb2246d",
+    "references/research-method.md": "001e505c34a34281579cac3289e183b9ad37bae65794dd5395377a35194a86b8",
+    "references/workspace.md": "f6266ceb935ea229678df5871c41534b3a87b9a14282e9a30180372814dd0b4c",
+    "agents/openai.yaml": "4b2fdc1494ed901801bbced8b64a083b115b3ebd989329941163fbb2903d2c8e",
+    "scripts/summarize_needs.py": "b6fe682db2b2e13f2a4bd2893f4c199ccd749e01e1dc4e39c579240b1f2c7801",
+    "assets/need.json": "d7cfb227b5633ac5d6257a568873ac42f7711622339d08eaa9a72c5016f12869",
+    "assets/research-preferences.md": "59380d37ccee5899272cb5d673e236fc626dabb194faea8238d10d83c8a6faf2"
+  },
+  "upwork-profile": {
+    "SKILL.md": "8e751dc71167b82a765c991d738e91273f7ac18710ff91bdda065c0a2b3b6475",
+    "references/sources.md": "f3ad743a9343b50e4727db5ff4283c371faf2cfe0469003205c57884b71de6c9",
+    "references/workspace.md": "f6266ceb935ea229678df5871c41534b3a87b9a14282e9a30180372814dd0b4c",
+    "agents/openai.yaml": "dc14ed074017811c70775fa2e7b33c84b93faa809d99a374ad5ed7a52026f417",
+    "assets/profile.md": "678329e4bcae542698e4ed0636fe62cc6fe872b71a244fca82c632b262a94e47"
+  },
+  "upwork-proposal": {
+    "SKILL.md": "21475c1248c788a3a18ad75068b20802c202157a9873a0496e0fa9e86782f094",
+    "references/sources.md": "f3ad743a9343b50e4727db5ff4283c371faf2cfe0469003205c57884b71de6c9",
+    "references/workspace.md": "f6266ceb935ea229678df5871c41534b3a87b9a14282e9a30180372814dd0b4c",
+    "references/proposal-decisions.md": "511595c828336069d26f10af429484425babba733372393150609e78ddabf586",
+    "agents/openai.yaml": "d982fa7d125ca008aacedd0ff5b604b75a9cc4252f8f65558469266b8b731f36",
+    "scripts/validate_milestones.py": "f53e7b3a3e0753803361d47f9f32ed44cbab65f99d660514195167d94029594d"
+  },
+  "upwork-bid-screen": {
+    "SKILL.md": "bdc8c102b2e8df7e1a22621753d6ab0af697c91f1eff04d7b3b536a1e1d738e2",
+    "references/sources.md": "f3ad743a9343b50e4727db5ff4283c371faf2cfe0469003205c57884b71de6c9",
+    "references/account.md": "1ad786d6dcdb3679bc13b66daea758ea37c6de98721f35db0874c961f642a308",
+    "references/workspace.md": "f6266ceb935ea229678df5871c41534b3a87b9a14282e9a30180372814dd0b4c",
+    "references/needs-handoff.md": "404eb40e02cfd66486953336f5dddd98826e84d801895ce3a87db6a4623377b0",
+    "references/configuration.md": "b6b53bfce551a77c0ac214f0aa7d3aca5920e81ce91d38c3b4e33bb610511859",
+    "references/decision-method.md": "992988158ec9295790c2cf2d2ee92ff1436f35bf3dbb4c7181568b70f1934c9b",
+    "agents/openai.yaml": "66c8740a38cab4d88f29345f8858d46a33711cedcf96729b43d0dde765d24b54",
+    "scripts/screen_guard.py": "cbc37d6266ded480dae6d3a7757e6670a0c53f54431ec3c891d1fa3c112e1846",
+    "assets/preferences.md": "0745ed508f8d6f3da9c141defed8882b2d9993fda1d80b267ebbdc737be73f5c"
+  }
+}

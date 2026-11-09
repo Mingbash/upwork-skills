@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upwork Proposal"
+  short_description: "Write an Upwork proposal from a job and your work"
+  default_prompt: "Use $upwork-proposal to draft a bid from this job and my experience. Tell me what I should ask the client before quoting."

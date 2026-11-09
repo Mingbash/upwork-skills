@@ -1,0 +1,10 @@
+{
+  "analysis_language": "auto",
+  "client_language": "auto",
+  "required_assets": [],
+  "fixed_lines": [],
+  "video_outline": false,
+  "milestone_max_chars": null,
+  "start_date": null,
+  "account_cache_max_hours": 72
+}
