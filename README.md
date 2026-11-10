@@ -1,8 +1,8 @@
 # Upwork Skills
 
-**Decide which Upwork jobs to apply for, then write a bid that shows what you can do.**
+**Decide which Upwork jobs are worth a bid, and learn what buyers keep outsourcing.**
 
-Paste a job and tell your agent about a project you’ve actually worked on. You can get a second opinion on the fit or draft a proposal around the work the client wants done. Two other skills help you spot repeat requests across job posts and write your freelancer profile.
+Start with Bid Screen. Paste a job, a bit about work you’ve done, and your time or price limits. It helps you work out what the client expects, what delivery could cost, and whether this is a job you can credibly bid on. A job you skip can still be useful when you’re deciding what service to offer.
 
 [简体中文](README.zh-CN.md) · [See examples](examples/README.md) · [Quick start](docs/QUICKSTART.md)
 
@@ -10,14 +10,34 @@ Paste a job and tell your agent about a project you’ve actually worked on. You
 
 | If you’re trying to… | Use | Bring |
 |---|---|---|
-| Write a proposal or answer a client | [Proposal](skills/upwork-proposal/SKILL.md) | The job post and your role in a related project |
 | Decide whether a job is worth a bid | [Bid Screen](skills/upwork-bid-screen/SKILL.md) | One or more jobs, your experience, and any limits on time or price |
 | Find a service clients keep asking for | [Needs Analysis](skills/upwork-needs-analysis/SKILL.md) | A batch of job posts or files |
+| Write a proposal or answer a client | [Proposal](skills/upwork-proposal/SKILL.md) | The job post and your role in a related project |
 | Write or revise your freelancer profile | [Profile](skills/upwork-profile/SKILL.md) | Your current profile or notes about work you’ve done |
 
 Each skill works on its own. You can start in chat without connecting an Upwork account.
 
-## Draft a proposal from a real job post
+## Start with the job in front of you
+
+```sh
+npx skills add Mingbash/upwork-skills --skill upwork-bid-screen -a codex
+```
+
+> Use `$upwork-bid-screen` on this job. I’ve built forms that send leads into a CRM, and I have five hours a week. Tell me which parts fit, what delivery would involve, and what I should ask before deciding to bid.
+
+The result gives you the fit, the likely delivery work and costs, and questions that could change the decision. A posted budget gives you a starting point for the conversation. You still need to check the scope and the conditions for applying. [See a screening example.](examples/screening.md)
+
+## Use the jobs you skip to look for a niche
+
+I originally saved jobs to decide which ones to apply for. I started keeping the ones I’d pass on, too. A company might need phone coverage I can’t offer, but its post could describe the same handoff problem I saw in another business. A call or website inquiry comes in, someone needs to book an appointment, the record needs to go into the CRM, and somebody has to follow up.
+
+1. **Bid Screen** reviews each job on its own. Ask it to retain the available job text and source details for research, including jobs you skip.
+2. **Needs Analysis** looks across the supplied posts for the same task showing up at different buyers. Keep unknown buyer identities and repeat postings visible. If a specific type of business keeps describing the same handoff, you have a niche to investigate.
+3. **Test it with buyers you find independently.** For example, talk to local service businesses you find outside Upwork. Ask how they handle a missed call today, how often it happens, and who would pay to fix it. Then see whether they’ll pay for a small, clearly scoped trial.
+
+Upwork is one window into what companies put out to freelancers. The posts can give you a starting point for a business that finds customers elsewhere. They show advertised budgets and requests, with actual contract prices and the size of the wider market still to verify.
+
+## Draft a proposal once you’ve decided to bid
 
 Install Proposal in Codex.
 
